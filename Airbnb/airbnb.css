@@ -17,6 +17,7 @@
   height: 2000px;
 }
 
+
 #navbar {
   width: 100%;
   /* border: 2px solid red; */
@@ -26,8 +27,6 @@
   left: 0;
   background-color: white;
   display: flex;
-
-
 }
 
 
